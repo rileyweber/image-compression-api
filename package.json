@@ -9,9 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.386.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "file-type": "^10.7.0",
     "imagemin": "^6.1.0",
-    "imagemin-pngquant": "^6.0.1"
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^6.0.1",
+    "mime-types": "^2.1.21"
   }
 }
